@@ -3,6 +3,8 @@
 ## JDK: 17
 Se realiza la conexión a BD con los links de descarga y el software necesario.
 
+### Si se desea crear proyecto nuevo, se debe crear un `Java with Ant`
+
 Archivos para descargar previos al deploy de la aplicación.
 
 1.- MySql Connector: https://downloads.mysql.com/archives/c-j/, descargar versión `8.0.26` y sistema operativo `Platform independent`. Luego descargar versión .ZIP `(mysql-connector-java-8.0.26.zip)`
